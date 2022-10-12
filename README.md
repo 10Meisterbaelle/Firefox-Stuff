@@ -23,15 +23,14 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Block videos from playing automatically | ✅ | ❔| ❔| Firefox blocks many videos from auto-playing by default |
 | uBlock Origin: works best | ✅ | ❌| ❌| https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox |
 | LocalCDN: works best |✅ | ❌| ❌| "Chromium unfortunately doesn't support all the cool features of LocalCDN." |
-| Open dev tools immediately using F12 | ✅ | ? | ❌| Edge asks for confirmation first! |
+| Open dev tools immediately using F12 | ✅ | ✅ | ?| Edge asks for confirmation first! However, you can save your decision. |
 | Vertical tabs/Tree Style Tabs | ✅ | ❌ | ✅ | Edge has this built-in, but without the heirachy or customisability of Tree Style Tabs. Half a point to Edge! | 
 | Tracking Protection: Blocks Fingerprinters | ✅ | ❌ | ❌|  |
 | Tracking Protection: Blocks Cryptominers | ✅ | ❌ | ❌|  |
-| Tracking Protection: Blocks Cross-Site Tracking Cookies | ✅ | ❌ | ❌|  |
-| Tracking Protection: Blocks Tracking Content | ✅ | ❌ | ❌| Note - only enabled in Private Windows or when using Strict mode |
+| Tracking Protection: Blocks Cross-Site Tracking Cookies | ✅ | ❌ | ?|  |
+| Tracking Protection: Blocks Tracking Content | ✅ | ❌ | ?| Note - only enabled in Private Windows or when using Strict mode |
 | Tracking Protection: View stats | ✅|❌|✅ | View short and long-term blocked trackers, fingerprinters and cryptominers at about:protections. I can't find a way to view stats in Chrome |
 | Tracking protection: View stats since install date | ✅|❌|❌ | This is a small thing, but Firefox shows "number of trackers blocked since <date>" |
-| Developer Tools: pop out into a separate window | ✅ |❌ | ❌|  |
 | Developer Tools inspector: Search bar | ✅ | ✅ | ⛔ | Edge is awkward about searching HTML |
 | Developer Tools: show Network tab by default | ✅ | ❌|❌| What are the big boys trying to hide?? |
 | Developer Tools: show the domain in Network tab by default  | ✅|❌|❌| What are they trying to hide?? |
@@ -49,34 +48,33 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Keyboard shortcut for Dev Tools: Network tab | ✅ | ❔| ❔| Hit Ctrl+Shift+E to open dev tools: Network tab in Firefox |
 | Send tab to other device function | ✅ | | | |
 | Ability to use your own sync server | ✅ | ❌| ❌| Apparently it's possible! No, I haven't tried it. MS and Google are your only options with Chrome and Edge |
-| Extensive customisation (eg userChrome.css) | ✅ | ❔ | ❔| |
+| Extensive customisation (eg userChrome.css) | ✅ | ❌ | ❌| |
 | Multiple dictionary (spell checker) support | ✅ | ❌ | ❌||
-| Extensions/Add-ons on mobile | ✅ | ❌ | ❌ | Currently mainstream Firefox on Android supports a limited number of addons, but Firefox Nightly does not have this restriction. As for Firefox on iOS - blame Apple |
+| Extensions/Add-ons on mobile | ✅ | ❌ | ? | Currently mainstream Firefox on Android supports a limited number of addons, but Firefox Nightly does not have this restriction. As for Firefox on iOS - blame Apple |
 | Easy on RAM/CPU* | ✅ | ❌ | ✅ | I see way too many complaints about RAM/CPU utilisation by Chrome. I'll give a point here to Edge though as it snoozes tabs and seems to handle many tabs well |
 | Allows blocking WebRequests in Manifest v3 | ✅ | ❌ | ❔ | One of the most controversial changes of Chrome’s MV3 approach is the removal of blocking WebRequest, which provides a level of power and flexibility that is critical to enabling advanced privacy and content blocking features. Unfortunately, that power has also been used to harm users in a variety of ways. Chrome’s solution in MV3 was to define a more narrowly scoped API (declarativeNetRequest) as a replacement. However, this will limit the capabilities of certain types of privacy extensions without adequate replacement.|
-| Android: Background media play | ✅ | ❌ | ❌| Firefox allows you to listen to a videos in the background or with the screen off! | 
+| Android: Background media play | ✅ | ? | ?| Firefox allows you to listen to a videos in the background or with the screen off! | 
 | Screenshot tool built in | ✅ | ❌ | ✅| Really shouldn't need this, but on Windows the Snipping Tool and Snip & Sketch apps suck |
 | Open source | ✅ | ❌ | ❌ | While Chromium (the engine Chrome and Edge are based on) is open source, the rest of the browser isn;t |
 | Offline translation feature | ✅ | ❌ | ❌ | The Firefox Translations addon (WIP) allows offline translation, without relying on Google |
 | Doesn't clutter Alt+Tab dialog with browser tabs | ✅ | ✅ | ❌ | This is annoying, and the setting to disable it is misleadingly in Windows' settings, not in Edge's settings (To disable, "Choose what windows appear when pressing Alt+Tab" > "Pressing Alt+Tab shows" - Select "Open Windows Only") |
 | Community to request features | ✅ | ❌| ❌| Vote for, comment and suggest new features here: https://connect.mozilla.org  |
 | Total cookie protection | ✅ | ❌ |❌ | https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/ | Ctrl+Up / Ctrl+Down to scroll to top/bottom of page | ✅| ⛔| ⛔ | Could be useful for people hard to use or non-existent Home/End keys |
-| Re-open closed browser windows | ✅ | | ❌ | Use Ctrl+Shift+N. Note: in Edge, while you can re-open the site from the previously closed window, itopens in your current window instead |
-| Re-open a closed Private/incognito tab | ✅ | ❔ | ❌ | This can be achieved by the standard Ctrl+Shift+T in Firefox |
-| Ability to disable DRM | ✅ | ❌ | ❔ | |
+| Re-open closed browser windows | ✅ |❌ | ❌ | Use Ctrl+Shift+N. Note: in Edge, while you can re-open the site from the previously closed window, itopens in your current window instead |
+| Re-open a closed Private/incognito tab | ✅ | ❌ | ❌ | This can be achieved by the standard Ctrl+Shift+T in Firefox |
+| Ability to disable DRM | ✅ | ❌ | ❌ | |
 | Blocks CNAME cloaking | ✅ | ❌ | ❔| https://thehackernews.com/2021/02/online-trackers-increasingly-switching.html |
 | Removes tracking parameters from URLs | ✅ | ❌ | ❌| As of version 102, Firefox removes parameters from URLs automatically when these may be used to identify and track users. |
 | Advanced JSON viewing | ✅ | ❌| ❌ | Edge and Chrome only show very basic info, eg ![image](https://user-images.githubusercontent.com/38451588/176366232-929dde78-d5b0-4145-a964-f95fbd059762.png) compared to Firefox: ![image](https://user-images.githubusercontent.com/38451588/176366305-ffd45712-69a3-4e95-951e-602529f34482.png) |
 | Better font/Image rendering* | ✅ | ❌ | ❌ | Down-scaled images are blurrier in Chromium browsers: https://stackoverflow.com/questions/37906602/blurry-downscaled-images-in-chrome . Anecdotetally, people mention that fonts are sharper in Firefox, although I don't have evidence to back this up |
-| Able to run portably/from USB | ✅ | | | |
-| "View page source" available in context menu | ✅ | ✅ | ❌ | |
+| Able to run portably/from USB | ✅ |? |? | |
 | Address bar at bottom (Android) | ✅ | ? | ? | Address bar can be set to top or bottom |
 | HTML table subsections selection / Select HTML tables by column | ✅|❌ |❌ | In Firefox, Ctrl+Click to select multiple cells of a table| 
-| Easily opt out of telemetry | ✅| | | |
-| Incognito/Private mode that doesn't track you | ✅ | ❌| | Source: https://www.wired.co.uk/article/google-chrome-incognito-mode-privacy |
+| Easily opt out of telemetry | ✅| ❌|❌ | |
+| Incognito/Private mode that doesn't track you | ✅ | ❌| ?| Source: https://www.wired.co.uk/article/google-chrome-incognito-mode-privacy |
 | Can place bookmarks on the address bar | ✅ | ❔| ❔| |
 | View source: shows the 'raw' HTML/CSS/JS as it was sent… and nicely highlights syntax errors in red and describes what went wrong in the tooltip | ✅ | ? | ? | |
-|Address bar: always show 'www' |✅ | ❌ | ?| Some (crappy) sites don't work without www. Chrome hides this so it looks like a "different" URL |
+|Address bar: always show 'www' |✅ | ? | ❌| Some (crappy) sites don't work without www. Chrome hides this so it looks like a "different" URL |
 | Address bar: hightlight top level domain |✅ | ❌ | ✅| Chrome makes it harder to spot deceptive sites in the address bar  |
 | Smooth scrolling | ✅ | ? | ? | You can also customise the scroll behavior on about:config |
 | Tor browser based on it |✅ | ❌ | ❌| |
@@ -87,11 +85,11 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Search for whole words (Ctrl+F) | ✅ | ❌ |❌| |
 | Context menu: show extensions | ✅ | ? |❌| Edge doesn't always show ublock origin for example in context menu |
 | Better SSL certificate viewer | ✅ | ❌ |❌| Firefox uses a modern, full page view that shows more info, and doesn't lock up the tab while you view the cert |
-| Option to set image as desktop background |✅|❌ | ❔| |
-| Choice of search engine for every search |✅|❌|❌| Firefox lets you choose an alternative search engine from the address bar ![image](https://user-images.githubusercontent.com/38451588/178210218-d55806cb-2641-4baf-8b7b-82b42893b682.png) |
-| Add custom search engines while browsing |✅ | ❌ | ❌| Sites that implement OpenSearch can be added as a search engine by clicking the magnifying glass with green plus icon from the address bar or search bar ![image](https://user-images.githubusercontent.com/38451588/178224100-86108a71-0832-4110-aaf0-e7e3d935cf6a.png)  ![image](https://user-images.githubusercontent.com/38451588/178224266-bd67a94a-cec3-4e9d-86f8-fcf19987ca39.png) | 
-| Search Bookmarks, Open Tabs and History from the address bar | ✅ | ❌ | ❌ | In Firefox, type the ```*```, ```%``` or ```^``` symbols in the address bar to search your bookmarks, tabs and history |
-| Themes: easily build your own | ✅ | ❌| ❌| Build themes [online](https://color.firefox.com/) or with the Firefox Color extension |
+| Option to set image as desktop background |✅|❌ | ❌| |
+| Choice of search engine for every search |✅|?|?| Firefox lets you choose an alternative search engine from the address bar ![image](https://user-images.githubusercontent.com/38451588/178210218-d55806cb-2641-4baf-8b7b-82b42893b682.png) |
+| Add custom search engines while browsing |✅ | ? | ?| Sites that implement OpenSearch can be added as a search engine by clicking the magnifying glass with green plus icon from the address bar or search bar ![image](https://user-images.githubusercontent.com/38451588/178224100-86108a71-0832-4110-aaf0-e7e3d935cf6a.png)  ![image](https://user-images.githubusercontent.com/38451588/178224266-bd67a94a-cec3-4e9d-86f8-fcf19987ca39.png) | 
+| Search Bookmarks, Open Tabs and History from the address bar | ✅ | ? | ? | In Firefox, type the ```*```, ```%``` or ```^``` symbols in the address bar to search your bookmarks, tabs and history |
+| Themes: easily build your own | ✅ | ?| ❌| Build themes [online](https://color.firefox.com/) or with the Firefox Color extension |
 | Themes: utilise backgrounds/images | ✅ | ✅ |❌ | While Edge supports themes from the Chrome store, it only displays theme colours, no images |
 | Themes: preview a theme without installing it  | ✅|❌|❌| |
 | Themes: higher coverage/more customisable |✅|❌|❌| Firefox themes the main menu, and has many elements that can be themed |
@@ -100,7 +98,6 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Doesn't start/run in background | ✅| ❌| ✅ | [Startup boost keeps Edge running in the background with minimal processes, so it will start more quickly when launched.](https://support.microsoft.com/en-us/topic/get-help-with-startup-boost-ebef73ed-5c72-462f-8726-512782c5e442) |
 | Highest number of extensions/add-ons | ✅ |❌ |❌ | Firefox has over half a million add-ons available! | 
 | Doesn't link browsing history, usage data and locations to users | ✅|❌| ✅ | ["Unlike Safari, Edge and Firefox, Chrome says it links all harvested data to devices and individuals."](https://www.forbes.com/sites/zakdoffman/2021/03/20/stop-using-google-chrome-on-apple-iphone-12-pro-max-ipad-and-macbook-pro/) |
-| "Do not track" setting by default | ✅|❌|❌ | |
 | Easy toolbar customisation |✅|❌|✅| Chrome doesn't allow you to customise the toolbar (at least not easily, like FF/Edge) |
 | Extensive toolbar options | ✅|❌|❌| Firefox lets you add more stuff to the toolbar, eg Zoom, Full Screen and Email Link. Zoom is very handy to have |
 | Easily deploy settings |✅|❌|❌ | You can drop/edit a user.js file to set most Firefox settings. I can't find a good way to export/import Chrome/Edge settings (except GPO), as they use an indecipherable file for their settings |
@@ -112,17 +109,16 @@ A list of over 100 reasons Firefox is more powerful, flexible and customisable �
 | Facebook container addon |  ✅| ❌ |❌|  |
 | Dedicated search field |  ✅| ❌ |❌|  |
 | Native Eyedropper/color picker | ✅| ❌ | ? | |
-| Add-ons: Install extension in private mode | ✅| ? |❌ | |
-| Add-ons: Install extension using keyboard | ✅| ? |❌ | Firefox allows you to use Alt+A |
-| Add-ons: Easily allow addon to run in private mode | ✅| ? |❌ | Firefox asks you during install. Edge doesn't ask at all, you have to manually enable after the fact |
-| Mute tabs easily |  ✅| ? |❌ | |
+| Add-ons: Install extension in private mode | ✅| ❌ |❌ | |
+| Add-ons: Install extension using keyboard | ✅| ❌ |❌ | Firefox allows you to use Alt+A |
+| Add-ons: Easily allow addon to run in private mode | ✅| ❌ |❌ | Firefox asks you during install. Edge doesn't ask at all, you have to manually enable after the fact |
+| Mute tabs easily |  ✅| ❌ |✅ | |
 | Visit a site directly instead of searching for it | ✅ | ❌ | ❌ | When typing a local FQDN (eg on a domain), Edge and Chrome require you to add the HTTPS:// or HTTP:// prefix otherwise they search the web. Firefox goes straight to the site |
-| Mute individual tabs in one click | ✅|❌ | ? | Chrome can mute entire sites, but not tabs |
+| Mute individual tabs in one click | ✅|❌ | ✅ | Chrome can mute entire sites, but not tabs |
 | Saved Logins: Monitor and notify of breached logins | ✅| ⚠ | ❌ | Firefox alerts you if one of your saved logins had their site breached. Chrome has this feature, but it's manual and you have to sign in with your google account |
 | Saved Logins: Shows icons of sites | ✅ | ? | ❌ | Firefox makes it a bit easier to identify entries |
-| Sync: use any email address | ✅ | ❌ | ❌ | Chrome and Edge require google and Microsoft accounts exclusively to sync your data |
-| Themes: override OS theme (eg dark/light) | ✅ | ❌| ? | I don't see a way to manually set dark mode for Chrome, even with addons  |
-| Extensions: more lenient towards addons |✅ |❌|❌| Addons like [removeddit](https://addons.mozilla.org/en-US/firefox/addon/removeddit) violates Chrome's web store policy, but not Firefox's addon store |
+| Themes: override OS theme (eg dark/light) | ✅ | ?| ✅ | I don't see a way to manually set dark mode for Chrome, even with addons  |
+| Extensions: more lenient towards addons |✅ |❌|?| Addons like [removeddit](https://addons.mozilla.org/en-US/firefox/addon/removeddit) violates Chrome's web store policy, but not Firefox's addon store |
 | Address bar: match history for partial words |✅ |❌|❌| Eg when typing a partial URL like "tube" instead of "youtube", Edge/Chrome does not return any matches from history and treats it like a new search. Firefox's address bar does wildcard searches and matches ANY part of a word |
 | Welcome screen that's not hostile |✅ |✅|❌| I've seen Edge's welcome screen where you have no way to close or even Alt+F4 it! |
 
